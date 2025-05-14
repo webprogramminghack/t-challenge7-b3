@@ -21,17 +21,27 @@ The goal is to assess your ability to:
 
 You are provided with the following folder structure:
 
-root/
-├── node_modules/
-├── public/
-│ └── index.html
-├── assets/
-├── build/
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── readme.md
-└── tailwind.config.js
+- root/
+
+- ├── node_modules/
+
+- ├── public/
+
+- │ └── index.html
+
+- ├── assets/
+
+- ├── build/
+
+- ├── package-lock.json
+
+- ├── package.json
+
+- ├── postcss.config.js
+
+- ├── readme.md
+
+- └── tailwind.config.js
 
 You will only need to modify the public/index.html file for this assignment. All necessary configurations for Tailwind CSS are already set up.
 
